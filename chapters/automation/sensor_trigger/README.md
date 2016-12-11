@@ -1,0 +1,2 @@
+# sensor和trigger
+
