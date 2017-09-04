@@ -11,5 +11,5 @@ gitbook install
 
 
 gitbook init
-gitbook serve ${scriptPath}
+gitbook serve --no-watch ${scriptPath}
 
